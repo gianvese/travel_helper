@@ -12,4 +12,7 @@ config/
 *.backup
 tmp/
 logs/
+*.log
+*.txt
+*.db
 *.sqlite
