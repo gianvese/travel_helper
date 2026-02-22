@@ -1,0 +1,15 @@
+# Data e config locali
+data/
+*.pyc
+__pycache__/
+grafana/
+venv/
+.env
+*.env
+config/
+*.sql
+*.dump
+*.backup
+tmp/
+logs/
+*.sqlite
